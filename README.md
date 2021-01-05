@@ -8,13 +8,13 @@
 
 ## 🚀 About
 
-Getkcal is a Calories Calculator. This project was developedd to improve my JS study :) and based on [THIS](https://www.youtube.com/watch?v=yiDq9wUiUjc&list=PLK_m105VcD-s-UrI_QnOPnmtFTm3g6126&index=7&t=444s) video.
+Getkcal is a Calorie Calculator. This project was developed to improve my JS study :) and based on [THIS](https://www.youtube.com/watch?v=yiDq9wUiUjc&list=PLK_m105VcD-s-UrI_QnOPnmtFTm3g6126&index=7&t=444s) video.
 
 ### 📋 Precondition
 
 This project needs NodeJS because you will need to install the `serve` package to run it in the browser through a node server.
 
-If you do not have NodeJS installed, just follow [THIs](https://nodejs.org) link and install the LTS version.
+If you do not have NodeJS installed, just follow [THIS](https://nodejs.org) link and install the LTS version.
 
 ### 👨‍💻 How to Setup
 
@@ -23,7 +23,7 @@ If you do not have NodeJS installed, just follow [THIs](https://nodejs.org) link
   $ git clone https://github.com/Levis44/Get-kcal.git
 ```
 
-To execute the prroject, just run this code this commands:
+To execute the project, just run this code this commands:
 ```sh
   $ cd Get-kcal # acces the folder 
   $ npm init -y # inicialize the package.json
