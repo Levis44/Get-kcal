@@ -1,0 +1,23 @@
+{
+  "name": "Get-kcal",
+  "version": "1.0.0",
+  "description": "Javascript Calories Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Levis44/Get-kcal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Levis44/Get-kcal/issues"
+  },
+  "homepage": "https://github.com/Levis44/Get-kcal#readme",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
